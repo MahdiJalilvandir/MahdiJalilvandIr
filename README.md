@@ -1,6 +1,6 @@
 # Mahdi Jalilvand
 
-Hello there! 👋 I'm Mahdi, a passionate Full-Stack Web Developer from Karaj, Iran. I specialize in crafting beautiful and efficient web solutions. Since starting my freelance journey in 2019, I've been deeply involved in the world of web development, constantly learning and evolving with the industry.
+Hello there! 👋 I'm Mahdi, Full-Stack Web Developer (Laravel & React.js) from Karaj, Iran. I specialize in crafting beautiful and efficient web solutions. Since starting my freelance journey in 2019, I've been deeply involved in the world of web development, constantly learning and evolving with the industry.
 
 ## Skills
 - **Frontend:** React.js, Alpine.js, Livewire, Bootstrap
